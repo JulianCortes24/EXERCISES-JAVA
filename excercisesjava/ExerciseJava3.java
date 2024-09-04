@@ -7,7 +7,7 @@ package excercisesjava;
 
 /**
  *
- * @author Julian Cortes//jjj
+ * @author Julian Cortes
  */
 public class ExerciseJava3 {
     
